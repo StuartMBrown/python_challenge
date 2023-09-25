@@ -1,2 +1,2 @@
 # python_challenge
-My Python challenge.
+Thanks to Nathan Rosenberg, Amanda Baynard, and David Chao for assistance.
